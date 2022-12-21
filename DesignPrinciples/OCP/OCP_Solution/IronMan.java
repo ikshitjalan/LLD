@@ -4,6 +4,6 @@ public class IronMan implements SuperHero {
 
   @Override
   public void attach() {
-    System.out.print("Attach by IronMan");
+    System.out.println("Attach by IronMan");
   }
 }
