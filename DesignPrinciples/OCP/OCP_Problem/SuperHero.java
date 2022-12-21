@@ -1,5 +1,6 @@
-package DesignPrinciples.OCP;
+package DesignPrinciples.OCP.OCP_Problem;
 
+//enum class defining attach methods for each type of superhero
 public enum SuperHero {
   IRON_MAN,
   BAT_MAN,
